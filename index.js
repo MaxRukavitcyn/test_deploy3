@@ -1,5 +1,1 @@
-function test() {
-	alert('test webpack')
-}
-
-test()
+import {vm} from './vue/main'

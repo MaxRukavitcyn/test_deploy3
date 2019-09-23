@@ -1,2 +1,2 @@
 import {vm} from './vue/main'
-alert('test');
+alert('Привет!!! С приездом папа!!!');
